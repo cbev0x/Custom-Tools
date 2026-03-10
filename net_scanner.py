@@ -2,6 +2,7 @@
 """
 My Network Port Scanner
 Scans TCP and UDP ports on a target host and will attempt to identify protocols in use.
+It uses only the Python standard library, no dependencies required.
 """
 
 import socket
